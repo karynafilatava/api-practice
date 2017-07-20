@@ -1,0 +1,15 @@
+{
+  "name": "api_practice",
+  "version": "1.0.0",
+  "description": "simple app find all connections between one user's friends and another user",
+  "main": "fincConnections.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vk",
+    "api"
+  ],
+  "author": "Karyna Filatava",
+  "license": "ISC"
+}
